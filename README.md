@@ -85,21 +85,7 @@ SmartWeather IoT is a complete embedded IoT weather monitoring station built on 
 
 ---
 
-## 📊 Output Screenshots
 
-### Temperature and Humidity Display
-![Temp Humidity](outputs/screenshot1.png)
-
-### Heat Index Display
-![Heat Index](outputs/screenshot2.png)
-
-### Serial Monitor MQTT Output
-![Serial Monitor](outputs/screenshot3.png)
-
-### Alert Screen
-![Alert](outputs/screenshot4.png)
-
----
 
 ## 🚨 Alert Thresholds
 
